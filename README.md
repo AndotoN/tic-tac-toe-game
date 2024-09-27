@@ -21,6 +21,9 @@ Make sure you have the following installed:
 - **Node.js**: (https://nodejs.org/) - For running the development server.
 - **npm**: Installed with Node.js.
 
+### Preview
+![image](https://github.com/user-attachments/assets/fa249c67-6345-4cb7-aaca-9d03106c1139)
+
 ### Project Structure
 ```bash
 tic-tac-toe-game/
